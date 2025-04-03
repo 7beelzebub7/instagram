@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.caja01{
+    background-color: rgb(215, 112, 255);
+    border: 2px black solid;
+    height: 100vh;
+}   
+.caja02{
+    background-color: rgb(215, 112, 255);
+    border: 2px black solid;
+    height: 100vh;
+}
+.caja03{
+    background-color: rgb(215, 112, 255);
+    border: 2px black solid;
+    height: 100vh;
+}
